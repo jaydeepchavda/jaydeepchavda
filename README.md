@@ -1,7 +1,7 @@
 <h1 align="center">💫 About Me: Jaydeep</h1>
 <h3 align="center">junior Software developer | • I develop Web App | • Enthusiastic about tech | • Problem solving |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydeepchavda&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeepchavda" /> </p>
+<p align="left"> <img src="https://github.com/jaydeepchavda" alt="jaydeepchavda" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jaydeep04441698" target="blank"><img src="https://img.shields.io/twitter/follow/jaydeep04441698?logo=twitter&style=for-the-badge" alt="jaydeep04441698" /></a> </p>
 
