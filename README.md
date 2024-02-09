@@ -1,5 +1,5 @@
 <h1 align="center">💫 About Me: Jaydeep</h1>
-<h3 align="center">junior Software developer | • Idevelop Web App | • Enthusiastic about tech | • Problem solving |</h3>
+<h3 align="center">junior Software developer | • I develop Web App | • Enthusiastic about tech | • Problem solving |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydeepchavda&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeepchavda" /> </p>
 
