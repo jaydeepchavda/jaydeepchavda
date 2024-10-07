@@ -1,5 +1,5 @@
 <h1 align="center">💫 About Me: Jaydeep</h1>
-<h3 align="center">junior Software developer | • I develop Web App | • Enthusiastic about tech | • Problem solving |</h3>
+<h3 align="center">junior frontend developer | • I develop Web App | • Enthusiastic about tech | • Problem solving |</h3>
 
 
 <p align="left"> <a href="https://twitter.com/jaydeep04441698" target="blank"><img src="https://img.shields.io/twitter/follow/jaydeep04441698?logo=twitter&style=for-the-badge" alt="jaydeep04441698" /></a> </p>
